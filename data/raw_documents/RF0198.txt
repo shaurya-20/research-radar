@@ -1,0 +1,12 @@
+RESEARCH FEED ITEM
+
+Record ID: RF0198
+Published: 2026-06-23 00:00
+Source Type: Industry Publication
+Source: Industry Review
+Headline: Global enterprise AI spending shifts from pilots toward production deployments
+
+Enterprise customers are moving a larger share of AI budgets from pilots toward production deployments, increasing demand for data engineering, governance and integration capabilities. The item may be relevant across multiple covered companies depending on business mix and exposure.
+
+---
+This is a fictionalised assessment document created to simulate publicly available market information. It is not a statement about any real company or security.
